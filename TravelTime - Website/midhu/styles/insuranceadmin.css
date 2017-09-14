@@ -1,0 +1,255 @@
+.page-wrapper  
+{	
+	border: 1px dashed black;
+	border-style: hidden;
+    margin: 0 auto;	
+    max-width: 1024px; 
+    height: auto;	
+}
+
+.box {
+   
+    padding: 60px;
+    background-color: #e8e8e8;
+    margin-top: 10px;
+	border: 1px solid #a61b0f;	
+	margin-bottom: 10px;
+	
+}
+.box1 {
+   
+    padding: 30px;
+    
+    margin-top: 20px;
+
+	margin-bottom: 20px;
+	
+}
+ 
+.button {
+    
+	position: relative;
+	 text-align: center;	
+    background: -webkit-gradient(linear, left top, left bottom, from(#000080),
+     color-stop(0.99, #000080), to(#000080));
+    color: white;
+    padding: 10px 30px;   
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 10px;
+	-moz-border-radius: 10px ;
+-webkit-border-radius: 10px ;
+	
+}
+
+.button2 {
+    
+	position: relative;
+	 text-align: center;	
+    background: -webkit-gradient(linear, left top, left bottom, from(#8b0000),
+     color-stop(0.99, #8b0000), to(#8b0000));
+    color: white;
+    padding: 10px 30px;   
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 10px;
+	-moz-border-radius: 10px ;
+-webkit-border-radius: 10px ;
+	
+}
+
+
+
+/*---------------------scroller------------------------------------------------*/
+
+
+a, a:link {
+	
+  color: #a61b0f;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: #a61b0f;
+}
+
+
+
+
+
+
+#scroll-up{	
+	position: fixed;
+	bottom: 2%;
+	left: 96%;
+	-webkit-animation-name: pulse; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+	-webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: pulse;
+    animation-duration: 1s;
+	animation-iteration-count: infinite;	
+}
+#scroll-up a{
+	
+	background-color: #8B0000;
+	text-decoration: none;
+	color: white;
+	padding: 0.1em 0.3em 0 0.3em;
+	font-size: 40px;
+	border-radius: 100%;	
+}
+#scroll-up a:hover{
+	text-decoration: none;
+}
+#style-font {
+	font-family: 'Dancing Script', cursive;
+	font-weight: 600;
+	font-size: 1.3em;
+	color: #d9a404;
+}
+
+
+
+/*!
+ * animate.css -http://daneden.me/animate
+ * Version - 3.5.1
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2016 Daniel Eden
+ */
+
+@-webkit-keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+/*---------------------scroller------------------------------------------------*/
+
+
+a, a:link {
+	
+  color: #a61b0f;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: #a61b0f;
+}
+
+
+
+
+
+
+#scroll-up{	
+	position: fixed;
+	bottom: 2%;
+	left: 96%;
+	-webkit-animation-name: pulse; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+	-webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: pulse;
+    animation-duration: 1s;
+	animation-iteration-count: infinite;	
+}
+#scroll-up a{
+	
+	background-color: #8B0000;
+	text-decoration: none;
+	color: white;
+	padding: 0.1em 0.3em 0 0.3em;
+	font-size: 40px;
+	border-radius: 100%;	
+}
+#scroll-up a:hover{
+	text-decoration: none;
+}
+#style-font {
+	font-family: 'Dancing Script', cursive;
+	font-weight: 600;
+	font-size: 1.3em;
+	color: #d9a404;
+}
+
+
+
+/*!
+ * animate.css -http://daneden.me/animate
+ * Version - 3.5.1
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2016 Daniel Eden
+ */
+
+@-webkit-keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+/*-------------------------------------------------------------------------------*/
+
+
+
+
+
+

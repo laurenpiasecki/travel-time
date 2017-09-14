@@ -1,0 +1,936 @@
+Error reporting
+	 Date Time: 2017-03-29 04:25:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: include(ww.php): failed to open stream: No such file or directory
+	 file name: E:\xampp\htdocs\web2\week8\phpmail\phpmail\errorlog\testerror.php
+	 Error line number: 4
+End reporting
+Error reporting
+	 Date Time: 2017-03-29 04:25:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: include(): Failed opening 'ww.php' for inclusion (include_path='E:\xampp\php\PEAR')
+	 file name: E:\xampp\htdocs\web2\week8\phpmail\phpmail\errorlog\testerror.php
+	 Error line number: 4
+End reporting
+Error reporting
+	 Date Time: 2017-03-29 04:25:24
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: name
+	 file name: E:\xampp\htdocs\web2\week8\phpmail\phpmail\errorlog\testerror.php
+	 Error line number: 5
+End reporting
+Error reporting
+	 Date Time: 2017-03-29 04:29:15
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: Cannot modify header information - headers already sent by (output started at E:\xampp\htdocs\web2\phpProject\feedbackform\view\Admin.php:114)
+	 file name: E:\xampp\htdocs\web2\phpProject\feedbackform\view\Admin.php
+	 Error line number: 135
+End reporting
+Error reporting
+	 Date Time: 2017-03-29 04:29:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: Cannot modify header information - headers already sent by (output started at E:\xampp\htdocs\web2\phpProject\feedbackform\view\footer.php:5)
+	 file name: E:\xampp\htdocs\web2\phpProject\feedbackform\view\Admin.php
+	 Error line number: 136
+End reporting
+Error reporting
+	 Date Time: 2017-03-29 04:32:44
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: Cannot modify header information - headers already sent by (output started at E:\xampp\htdocs\web2\phpProject\feedbackform\view\Admin.php:114)
+	 file name: E:\xampp\htdocs\web2\phpProject\feedbackform\view\Admin.php
+	 Error line number: 136
+End reporting
+Error reporting
+	 Date Time: 2017-03-29 05:07:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fnameErr
+	 file name: E:\xampp\htdocs\web2\phpProject\feedbackform\view\userfeedback.php
+	 Error line number: 28
+End reporting
+Error reporting
+	 Date Time: 2017-03-29 05:07:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fnameErr
+	 file name: E:\xampp\htdocs\web2\phpProject\feedbackform\view\userfeedback.php
+	 Error line number: 28
+End reporting
+Error reporting
+	 Date Time: 2017-04-10 23:58:05
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: obj1
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\edit.php
+	 Error line number: 16
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 01:02:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: admin__edit-date
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\edit.php
+	 Error line number: 48
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 18:12:48
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: admin__edit-date
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\edit.php
+	 Error line number: 48
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:06:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 83
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:10:17
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 83
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:13:16
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 83
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:15:42
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 83
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:16:23
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 83
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:19:28
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 84
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:19:59
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 84
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:20:17
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 84
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:25:09
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 88
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:27:08
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: ferror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 88
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:32:41
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 107
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:32:52
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 107
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:53:56
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 107
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:54:01
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 107
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 19:54:45
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 107
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 20:00:02
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: admin__edit-date
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\edit.php
+	 Error line number: 48
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 21:43:57
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 107
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 21:45:46
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 106
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 21:45:46
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 107
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 21:47:37
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 106
+End reporting
+Error reporting
+	 Date Time: 2017-04-11 21:47:37
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: emailerror
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 107
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:19:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:19:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:19:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:19:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:20:02
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:20:02
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:22:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:22:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:25:23
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:25:24
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:25:45
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:25:45
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:25:45
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:26:41
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:26:41
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:26:41
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:26:43
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:26:43
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:26:43
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:26:43
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:26:43
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:26:43
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:27:02
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:27:02
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:27:02
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:28:03
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:28:03
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:28:03
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:28:07
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:28:07
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:28:07
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:32:38
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 32
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:32:38
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:32:38
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:32:38
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:32:57
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 32
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:32:57
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:32:57
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:32:57
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:33:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 32
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:33:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:33:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:33:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:35:15
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 32
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:35:15
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:35:15
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:35:15
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:35:54
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 32
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:35:54
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:35:54
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:35:54
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 57
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:06
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 32
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:06
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:06
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:06
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 58
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:48
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 32
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:48
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:48
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:48
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 57
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:52
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 32
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:52
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:52
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 55
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:36:52
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 57
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:40:55
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 104
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:40:55
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 127
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:41:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 104
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:41:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 127
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:43:51
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:43:51
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 34
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:43:51
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:43:51
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 58
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:44:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:44:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 34
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:44:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:44:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 58
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:44:18
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 33
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:44:18
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: fname_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 34
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:44:18
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 56
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 20:44:18
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 58
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 21:04:08
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: userfeedback__phone
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 39
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 21:08:02
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: userfeedback__phone
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 21:27:06
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 73
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 21:27:06
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email_error
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 75
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 21:27:46
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: email
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\userfeedback.php
+	 Error line number: 73
+End reporting
+Error reporting
+	 Date Time: 2017-04-18 22:12:16
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Use of undefined constant resdel - assumed 'resdel'
+	 file name: E:\xampp\htdocs\web2\finalphpProject\feedbackform\view\Admin.php
+	 Error line number: 30
+End reporting

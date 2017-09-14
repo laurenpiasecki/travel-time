@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommended Hotels</title>
+</head>
+<body>
+<div>
+    Select a City
+    <select name="dropcity" id="dropcity">
+
+    </select>
+</div>
+<div id="results">
+
+</div>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $.getJSON('getcity.php', function (data) {
+            var cit = "";
+            $.each(data, function (index, city) {
+                cit += "<option value='" + city.city + "'>" + city.city + "</option>";
+            });
+            $("#dropcity").html(cit);
+        });
+        $("#dropcity").change(function(){
+            var mycit = $("#dropcity").val();
+            $.getJSON('gethotels.php',
+                { cit : mycit },
+                function(hotels){
+                    var results = "<ul>";
+                    $.each(hotels, function(index, hotel){
+                        results += "<li>" + hotel.name + " : " + hotel.description + "</li>";
+                    });
+                    results += "</ul>";
+                    console.log(results);
+                    $("#results").html(results);
+                }
+            );
+        });
+
+    });
+</script>
+</body>
+</html>

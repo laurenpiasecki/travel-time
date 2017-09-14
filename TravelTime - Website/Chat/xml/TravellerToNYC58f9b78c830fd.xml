@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chatRoom>
+  <user>
+    <name>TravellerToNYC</name>
+    <message>Hi</message>
+    <date>2017-04-21 03:41:03</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>Hi </message>
+    <date>2017-04-21 03:41:23</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>hi how can i help u</message>
+    <date>2017-04-21 03:41:34</date>
+  </user>
+  <user>
+    <name>TravellerToNYC</name>
+    <message>i am looking for a trip to New york</message>
+    <date>2017-04-21 03:42:21</date>
+  </user>
+</chatRoom>

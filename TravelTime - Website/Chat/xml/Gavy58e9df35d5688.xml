@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chatRoom>
+  <user>
+    <name>Gavy</name>
+    <message>hi</message>
+    <date>2017-04-09 03:14:17</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>hi</message>
+    <date>2017-04-09 03:15:00</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>how can i help you ?</message>
+    <date>2017-04-09 03:15:09</date>
+  </user>
+  <user>
+    <name>Gavy</name>
+    <message>i was looking for a trip to America</message>
+    <date>2017-04-09 03:16:08</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>Gud, we have couple of tours to America</message>
+    <date>2017-04-09 03:16:51</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>I need some information to provid eyou wat you need</message>
+    <date>2017-04-09 03:17:28</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>Between which dates you wanna go</message>
+    <date>2017-04-09 03:17:45</date>
+  </user>
+  <user>
+    <name>Gavy</name>
+    <message>first week of aprile and return in june last week</message>
+    <date>2017-04-09 03:18:49</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>ok..gud..give me moment to look</message>
+    <date>2017-04-09 03:37:17</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>ok</message>
+    <date>2017-04-09 04:34:51</date>
+  </user>
+</chatRoom>

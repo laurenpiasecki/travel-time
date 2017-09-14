@@ -1,0 +1,300 @@
+
+.img__logo{
+    width : 12.5em;
+    height: auto;
+    vertical-align: middle;
+    margin-top: -0.6em;
+}
+.navbar {
+    border-radius: 0px !important;
+    margin-bottom: 0px !important;
+    z-index: 99999;
+}
+/*FIXED NAVIGATION*/
+.affix {
+    top: 0;
+    width: 100%;
+}
+
+.affix + .container-fluid {
+    padding-top: 70px;
+}
+/*FIXED NAVIGATION*/
+
+.bg-overlay {
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url("../images/mainImage.jpg");
+    /*Background Image from freepik.com
+    <a href="http://www.freepik.com/free-vector/background-of-various-travel-elements-with-message_1042524.htm">Designed by Freepik</a>
+    */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #fff;
+    width: 100%;
+    height: auto;
+    padding-top: 12em;
+    padding-bottom: 20em;
+}
+.tagLine{
+    font-size: 3em;
+    font-style: italic;
+
+}
+.decorativeText{
+    font-style: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #87c5ff;
+    font-size: 2em;
+}
+.popularTours:hover .bookNow{
+
+    display: block;
+
+}
+
+.popularTours:hover{
+    border: 3px solid #468ae7;
+    border-radius: 15px;
+    padding-top: 1em;
+    -webkit-box-shadow: 0px 13px 22px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 13px 22px -2px rgba(0,0,0,0.75);
+    box-shadow: 0px 13px 22px -2px rgba(0,0,0,0.75);
+}
+
+.bookNow{
+    display: none;
+    color: white;
+    background-color: #468ae7;
+    border: 5px solid white;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 5px 5px;
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+}
+.bg-overlay2 {
+    background: url("../images/statueOfLiberty.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    width: 100%;
+    height: auto;
+    padding-top: 12em;
+    padding-bottom: 10em;
+}
+#testimonals {
+    width: 100%;
+    height: auto;
+    padding-top: 2em;
+}
+
+.bg-overlay4 {
+    margin-top: 5em;
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url("../images/island.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    width: 100%;
+    padding-top: 8em;
+    padding-bottom: 8em;
+}
+
+
+
+.saying{
+    color: white;
+    font-size: 2em;
+}
+.sayer{
+    color: #87c5ff;
+    font-size: 1.5em;
+    font-family: 'Dancing Script', cursive;
+}
+#img__RowSeparator {
+    margin-top: -15em;
+}
+
+.element-centered{
+    text-align: center;
+}
+
+
+.titleText{
+    font-family: sans-serif;
+    color: black;
+    font-size: 3em;
+    font-weight:bold ;
+}
+
+.titleLine{
+    font-family: 'Dancing Script', cursive;
+    color: #468ae7;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-top: -0.4em;
+}
+.headingRow {
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+.why_us{
+    margin-top: 5em;
+}
+
+/* carousel */
+#quote-carousel {
+    padding: 0 1em 4em 1em;
+    margin-top: 2em;
+    text-align:center;
+
+}
+/* indicator position */
+#quote-carousel .carousel-indicators {
+    right: 50%;
+    top: auto;
+    margin-right: -1.5em;
+}
+#quote-carousel .carousel-indicators li {
+    background: black;
+}
+#quote-carousel .carousel-indicators .active {
+    background: #468ae7;
+}
+
+#img__BlackRowSeparator{
+    width: 100%;
+    height: auto;
+}
+
+/*to display error message near to form field*/
+.form-control{
+    display: inline-block!important;
+}
+
+.footerBg{
+    background-color: black;
+    color: white;
+    padding: 1em;
+}
+
+#footer_logo{
+    width: 15em;
+    height: auto;
+    margin: 0 auto;
+}
+
+/*ADMIN PAGE*/
+.thead-custom{
+    background-color: #222;
+    color: #fff;
+}
+.editImage{
+    width:100% ;
+    height: auto;
+}
+.admin__listTourTab{
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border: 3px solid #337ab7;
+    border-radius: 10px;
+}
+.admin__createTourTab{
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border: 3px solid #337ab7;
+    border-radius: 10px;
+}
+.admin__sidebar{
+    padding-top: 3em;
+
+
+}
+.admin_body{
+    padding-top: 4em;
+}
+.admin_sidebar_items{
+    background-color: #222!important;
+
+}
+.admin_sidebar_items a{
+    color:white!important;
+
+}
+.admin_sidebar_items:hover{
+    background-color: white!important;
+    text-decoration: none;
+
+}
+
+
+
+.admin_sidebar_items:hover a {
+    color: #000!important;
+    text-decoration: none!important;
+}
+
+.admin__titleTextEdit{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+
+/*Cart Page*/
+.cartBody{
+    padding: 8% 0 8% 0;
+}
+
+/*Chat Assistance*/
+.alignedCenter{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.loginBox{
+    background-color: white;
+    padding: 25px 0px 60px 0px;
+
+}
+
+.msgForm{
+    position: fixed;
+    left: 5%;
+    bottom: 30px;
+    text-align: center;
+}
+
+.form__msgBox{
+    border: 5px solid #337ab7!important;
+    padding: 5px!important;
+}
+
+/*MOBILE SCREEN*/
+@media screen and (max-width: 700px) {
+    .tagLine {
+        font-size: 2em;
+        line-height: 2em;
+    }
+
+    .why_us{
+        margin-top: 1em;
+    }
+
+    .bg-overlay {
+        padding-top: 6em;
+        padding-bottom: 17em;
+    }
+
+    .bg-overlay2 {
+        padding-top: 6em;
+        padding-bottom: 2em;
+    }
+    .rowHide {
+        left: -1000em;
+    }
+
+
+}

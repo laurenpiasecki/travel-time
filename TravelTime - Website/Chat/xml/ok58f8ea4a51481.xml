@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chatRoom>
+  <user>
+    <name>ok</name>
+    <message>jo</message>
+    <date>2017-04-20 13:05:17</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>hi</message>
+    <date>2017-04-20 13:07:09</date>
+  </user>
+  <user>
+    <name>admin</name>
+    <message>hi</message>
+    <date>2017-04-20 13:08:03</date>
+  </user>
+</chatRoom>
